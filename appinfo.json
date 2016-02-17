@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "seancallanan@gmail.com",
+    "enableMultiJS": false,
+    "longName": "IrishTime",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:' a-z]",
+                "file": "fonts/Station.ttf",
+                "name": "STATION_30",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "IrishTime",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4d2b6712-5a9e-49b9-b143-12944871555c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
